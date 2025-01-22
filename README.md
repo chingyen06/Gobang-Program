@@ -1,4 +1,4 @@
-# Gobang_Program
+# Gobang-Program
 
 ## 相關課程
 國立臺北科技大學 謝東儒教授開設  
